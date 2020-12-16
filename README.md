@@ -5,4 +5,6 @@ _blockchain is a simple implementation of blockchain technolgy it has some of it
 - And if you whant to know some of the concept behind the implementation of a blockchain project you can see another article I made [here](https://penyel-djegnene.medium.com/learn-blockchain-by-creating-one-3a38cc7b263b)
 
 # How to use?
-All the code was transform into an executable that is named
+All the code was transform into an executable that is named __main.exe__. You can stare the programm by cliking on the executable file wich is in the hello_blockchain folder.
+
+- If you whant to change some of the code you can see the core implementation of the blockchain in the blockchain.py file and the main.py is the interface.
