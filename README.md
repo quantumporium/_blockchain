@@ -1,4 +1,5 @@
 # _blockchain
+![]()
 _blockchain is a simple implementation of blockchain technolgy it has some of its basic componant like proof_of_work and hashing function. Unfortunetly I did not implement the decentralisation this would be for another project.
 
 - If you whant to know more here is an article I made on the concept behind blockchain [here](https://medium.com/coinmonks/blockchain-101-5e19b7249db8).
