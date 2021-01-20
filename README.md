@@ -1,4 +1,4 @@
-# _blockchain
+# _blockchain <img src="" width='10">
 ![](https://github.com/quantumporium/_blockchain/blob/main/hello_blockchain/img/demo.gif)
 _blockchain is a simple implementation of blockchain technolgy it has some of its basic componant like proof_of_work and hashing function. Unfortunetly I did not implement the decentralisation this would be for another project.
 
