@@ -15,16 +15,16 @@ To use this software, download the directory and open the main.exe file in the d
 The path where the dist directory is _blockchain/hello_blockchain/.
 
 
-# Add transaction
+## Add transaction
 The add transaction page allows you to add a given number of transactions to the block.
 
 ## Mine block
 The Mine the block page will create and add the block with all the transactions inside the blockchain.
 
-### See the blockchain
+## See the blockchain
 The see the blockchain page allows you to look at all the blocks that are present in the blockchain.
 
 
-## About me
+# About me
 
 I’m Penyel djegnene — a 17 year old innovator and developer who has a passion for learning. I appreciate you for reading this article till the end! If you enjoyed the article, please feel free to follow me on my Linkedin. You can also check out my website and my blog .
