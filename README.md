@@ -24,6 +24,7 @@ After running the executable you can either make some transactions, mine a block
 
 # Tech/Framework used
 - This project was made with visual visual studio.
+- I use pyInstaller to create the executable file
 
 # Credit
 - [made blockchain in python](https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/)
